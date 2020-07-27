@@ -7,12 +7,12 @@ public class CarrosPage {
 	
 	private WebDriver driver;
 	
-	private By carroModelo1 = By.cssSelector("#ac30072052 > div > a > h2");
-	private By carroValor1 = By.cssSelector("#ac30072052 > div > a > h3");
-	private By carroAno1 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.primeiro > p");
-	private By carroKm1 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.usado > p");
-	private By carroCor1 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li:nth-child(3) > p");
-	private By carroCambio1 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.ultimo > p");
+	private By carroModelo1 = By.cssSelector("#ac30202321 > div > a > h2");
+	private By carroValor1 = By.cssSelector("#ac30202321 > div > a > h3");
+	private By carroAno1 = By.cssSelector("#ac30202321 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.primeiro > p");
+	private By carroKm1 = By.cssSelector("#ac30202321 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.usado > p");
+	private By carroCor1 = By.cssSelector("#ac30202321 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li:nth-child(3) > p");
+	private By carroCambio1 = By.cssSelector("#ac30202321 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.ultimo > p");
 	
 	
 	private By carroModelo2 = By.cssSelector("#ac30037122 > div > a > h2");
@@ -23,12 +23,12 @@ public class CarrosPage {
 	private By carroCambio2 = By.cssSelector("#ac30037122 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.ultimo > p");
 	
 	
-	private By carroModelo3 = By.cssSelector("#ac29385452 > div > a > h2");
-	private By carroValor3 = By.cssSelector("#ac29385452 > div > a > h3");
-	private By carroAno3 = By.cssSelector("#ac29385452 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.primeiro > p");
-	private By carroKm3 = By.cssSelector("#ac29385452 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.usado > p");
-	private By carroCor3 = By.cssSelector("#ac29385452 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li:nth-child(3) > p");
-	private By carroCambio3 = By.cssSelector("#ac29385452 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.ultimo > p");
+	private By carroModelo3 = By.cssSelector("#ac30072052 > div > a > h2");
+	private By carroValor3 = By.cssSelector("#ac30072052 > div > a > h3");
+	private By carroAno3 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.primeiro > p");
+	private By carroKm3 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.usado > p");
+	private By carroCor3 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li:nth-child(3) > p");
+	private By carroCambio3 = By.cssSelector("#ac30072052 > div > div.clearfix.dados_anuncio > div.dados_veiculo > a > ul > li.ultimo > p");
 	
 	
 	

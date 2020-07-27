@@ -78,6 +78,17 @@ public class HomePage {
 		return new CarrosPage(driver);
 		
 	}
+
+	public void carregarPagiInicial() {
+		
+		driver.get("https://www.icarros.com.br/principal/index.jsp");
+		
+	}
+
+	public String obterTituloPagina() {
+		return driver.getTitle();
+		
+	}
 	
 	
 

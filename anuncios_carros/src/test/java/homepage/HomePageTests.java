@@ -49,7 +49,7 @@ public class HomePageTests extends BaseTests {
 		System.out.println(listaModelo_HomePage);
 		homePage.clicarListaModelos(indice1);
 				
-		//Clicar no botão Buscar
+		//Clicar no botï¿½o Buscar
 		carrosPage = homePage.clicarBotaoBuscar();
 		
 		//listar 3 carros (mesma marca, modelo)
@@ -126,7 +126,7 @@ public class HomePageTests extends BaseTests {
 				System.out.println(listaModelo_HomePage);
 				homePage.clicarListaModelos(indice1);
 						
-				//Clicar no botão Buscar
+				//Clicar no botï¿½o Buscar
 				carrosPage = homePage.clicarBotaoBuscar();
 				
 				
@@ -159,7 +159,8 @@ public class HomePageTests extends BaseTests {
 	
     }
 	
-	
+	////////Obs: antes de rodar o teste verifique se os automoveis ainda estao
+	///////aparecendo na lista do icarros para venda
 		Carro1Page carro1Page;
 		@Test
 		public void testValidarCarro_ModeloValorIguais() {
